@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\signup\\dotnet\\DemoMicroserviceSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E2D686-6125-44E9-8428-C418E5B49E94}|docker-compose.dcproj|d:\\signup\\dotnet\\demomicroservicesolution\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F1E2D686-6125-44E9-8428-C418E5B49E94}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FC4815-FEB3-4A31-BA29-008E59053533}|OrderWebApi\\OrderWebApi.csproj|d:\\signup\\dotnet\\demomicroservicesolution\\orderwebapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25FC4815-FEB3-4A31-BA29-008E59053533}|OrderWebApi\\OrderWebApi.csproj|solutionrelative:orderwebapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FC4815-FEB3-4A31-BA29-008E59053533}|OrderWebApi\\OrderWebApi.csproj|d:\\signup\\dotnet\\demomicroservicesolution\\orderwebapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25FC4815-FEB3-4A31-BA29-008E59053533}|OrderWebApi\\OrderWebApi.csproj|solutionrelative:orderwebapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\signup\\dotnet\\DemoMicroserviceSolution\\OrderWebApi\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "OrderWebApi\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\signup\\dotnet\\DemoMicroserviceSolution\\OrderWebApi\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "OrderWebApi\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:44:36.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\signup\\dotnet\\DemoMicroserviceSolution\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "D:\\signup\\dotnet\\DemoMicroserviceSolution\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-12-03T11:42:13.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\signup\\dotnet\\DemoMicroserviceSolution\\OrderWebApi\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "OrderWebApi\\Models\\Order.cs",
+              "ToolTip": "D:\\signup\\dotnet\\DemoMicroserviceSolution\\OrderWebApi\\Models\\Order.cs",
+              "RelativeToolTip": "OrderWebApi\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:42:07.961Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
